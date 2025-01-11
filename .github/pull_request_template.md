@@ -1,8 +1,6 @@
 ## Describe your changes
-(Provide a clear and concise description of the changes)
 
 ## Issue ticket number and link
-- Issue: #
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
